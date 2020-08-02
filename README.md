@@ -2,4 +2,4 @@
 
 
 
- <img src="Screenshot_1.png" width="40%">
+ <img src="Screenshot_1.png">
